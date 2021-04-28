@@ -20,11 +20,16 @@
     "nodemon": "^1.18.7"
   },
   "dependencies": {
+    "@heroku/buildpack-registry": "^1.0.1",
+    "async-file": "^2.0.2",
     "axios": "^0.18.0",
+    "cli-ux": "^4.9.3",
     "express": "^4.16.3",
+    "got": "^8.3.2",
     "heroku": "^7.53.0",
     "if-env": "^1.0.4",
     "mongoose": "^5.3.16",
+    "phoenix": "^1.5.8",
     "yarn": "^1.22.10"
   }
 }
