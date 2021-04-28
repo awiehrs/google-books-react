@@ -19,18 +19,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^4.1.0",
+    "concurrently": "^6.0.2",
     "nodemon": "^1.18.7"
   },
   "dependencies": {
     "@heroku-cli/plugin-buildpacks": "^7.53.0",
     "@heroku/buildpack-registry": "^1.0.1",
     "async-file": "^2.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cli-ux": "^4.9.3",
     "express": "^4.16.3",
     "got": "^8.3.2",
-    "heroku": "^7.53.0",
+    "heroku": "^7.2.0",
+    "heroku-cli": "^6.15.31",
     "if-env": "^1.0.4",
     "mongoose": "^5.3.16",
     "phoenix": "^1.5.8",
